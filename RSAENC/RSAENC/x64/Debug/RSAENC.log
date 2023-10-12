@@ -1,0 +1,9 @@
+﻿  RSAENC.cpp
+C:\Users\hamit\source\repos\RSAENC\RSAENC\RSAENC.cpp(26,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\hamit\source\repos\RSAENC\RSAENC\RSAENC.cpp(27,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\hamit\source\repos\RSAENC\RSAENC\RSAENC.cpp(31,11): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\hamit\source\repos\RSAENC\RSAENC\RSAENC.cpp(40,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\hamit\source\repos\RSAENC\RSAENC\RSAENC.cpp(54,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\hamit\source\repos\RSAENC\RSAENC\RSAENC.cpp(57,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\hamit\source\repos\RSAENC\RSAENC\RSAENC.cpp(15,6): warning C4101: 'fl': unreferenced local variable
+  RSAENC.vcxproj -> C:\Users\hamit\source\repos\RSAENC\x64\Debug\RSAENC.exe
